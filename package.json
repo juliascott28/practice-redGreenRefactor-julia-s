@@ -1,0 +1,30 @@
+{
+  "name": "practice-redgreenrefactor-julia-s",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliascott28/practice-redGreenRefactor-julia-s.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/juliascott28/practice-redGreenRefactor-julia-s/issues"
+  },
+  "homepage": "https://github.com/juliascott28/practice-redGreenRefactor-julia-s#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  },
+  "allowScripts": {
+    "jest@30.5.2": true
+  }
+}
