@@ -3,7 +3,8 @@ const countVowels = require('../main.js')
 describe ("countVowels", function(){
     //positive
     test("Return the number of vowels in the string.", function(){
-        expect("Hello, World").toBe(countVowels(3))
+        let myString = "Hello, World"
+        expect(myString).toBe(countVowels(3))
     })
 })
     //negative
